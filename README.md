@@ -1,10 +1,14 @@
-Hospital Emergency Room Dashboard | Power BI
-Developed an interactive Hospital Emergency Room (ER) Dashboard in Power BI to monitor patient flow, wait times, and satisfaction levels. The dashboard helps hospital administrators identify peak hours, reduce patient wait time, and improve emergency department efficiency through data-driven insights.
 
-Project Overview
+# Hospital Emergency Room Dashboard | Excel
+
+Developed an interactive **Hospital Emergency Room (ER) Dashboard** in Excel to monitor patient flow, wait times, and satisfaction levels. The dashboard helps hospital administrators identify peak hours, reduce patient wait time, and improve emergency department efficiency through data-driven insights.
+
+## Project Overview
+
 This dashboard provides a comprehensive view of Emergency Room operations by tracking patient volume, service delays, and satisfaction trends. It enables healthcare teams to quickly identify bottlenecks, manage resources efficiently, and improve patient experience.
 
-Objectives
+## Objectives
+
 • Track daily Emergency Room patient volume
 • Monitor average patient wait time
 • Analyze patient satisfaction trends
@@ -12,14 +16,17 @@ Objectives
 • Improve ER operational efficiency
 • Support staffing and resource planning
 
-Tech Stack
-• Power BI Desktop – Dashboard development & visualization
-• Power Query – Data cleaning and transformation
-• DAX – KPI calculations and measures
-• Data Modeling – Relationship building
-• File Formats – .pbix (development), .png (preview)
+## Tech Stack
 
-Data Source
+• Microsoft Excel – Dashboard development & visualization
+• Pivot Tables – Data summarization and analysis
+• Power Query – Data cleaning and transformation
+• Excel Formulas – KPI calculations
+• Conditional Formatting – Trend highlighting & sparklines
+• File Format – .xlsx
+
+## Data Source
+
 Dataset: Hospital Emergency Room Dataset
 
 Key Fields Include:
@@ -31,7 +38,8 @@ Key Fields Include:
 • Department / Unit
 • Admission Status
 
-Business Problem
+## Business Problem
+
 Emergency Rooms often struggle with overcrowding and unpredictable demand, making it difficult to answer key operational questions:
 
 • How many patients visit the ER daily?
@@ -42,43 +50,50 @@ Emergency Rooms often struggle with overcrowding and unpredictable demand, makin
 
 This dashboard centralizes ER analytics to address these challenges.
 
-Dashboard Features
-1️⃣ ER Overview
+## Dashboard Features
+
+### 1️⃣ ER Overview
+
 • Total Number of Patients
 • Daily Patient Trend
 • Peak Day Identification
 • Seasonal Patterns
 • Area Sparkline for Daily Visits
 
-2️⃣ Average Wait Time Analysis
+### 2️⃣ Average Wait Time Analysis
+
 • Average Wait Time KPI
 • Daily Wait Time Trend
 • Area Sparkline for Wait Time
 • Longest Wait Time Days
 • Wait Time Distribution
 
-3️⃣ Patient Satisfaction Analysis
+### 3️⃣ Patient Satisfaction Analysis
+
 • Average Satisfaction Score
 • Daily Satisfaction Trend
 • Area Sparkline for Satisfaction
 • Satisfaction Drop Detection
 • Satisfaction vs Patient Volume
 
-4️⃣ Patient Flow Insights
+### 4️⃣ Patient Flow Insights
+
 • Patients by Day of Week
 • Peak Hour Analysis
 • Admission vs Non-Admission
 • Visit Volume Trends
 • ER Utilization
 
-Key Insights
+## Key Insights
+
 • Identified busiest ER days and peak periods
 • Highlighted longer patient wait times
 • Detected satisfaction score drops during high volume
 • Improved understanding of patient flow
 • Enabled better staffing decisions
 
-Business Impact
+## Business Impact
+
 This dashboard helps hospitals to:
 
 • Reduce patient wait times
